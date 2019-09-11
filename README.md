@@ -10,3 +10,12 @@ verify anything for me so I'll be on the honor system (and I'm only hurting myse
 
 So the complete behavior of the app is to constantly show me a random note, let me guess at it, and then show me the
 correct answer. Rinse and repeat.
+
+### Project setup
+```
+npm install
+```
+
+```
+npm run serve
+```
