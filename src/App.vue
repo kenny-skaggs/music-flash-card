@@ -1,6 +1,11 @@
 <template>
   <div id="app">
     <NoteArranger />
+    <footer>
+        <a href="https://www.freepik.com/free-photos-vectors/music">
+            Music vectors created by rawpixel.com - www.freepik.com
+        </a>
+    </footer>
   </div>
 </template>
 
@@ -16,12 +21,17 @@ export default {
 </script>
 
 <style>
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+    #app {
+        font-family: 'Avenir', Helvetica, Arial, sans-serif;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        text-align: center;
+        color: #2c3e50;
+    }
+
+    footer {
+        width: 100%;
+        position: fixed;
+        bottom: 0;
+    }
 </style>
