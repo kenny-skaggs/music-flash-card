@@ -16,7 +16,7 @@ export default {
     props: ['octave', 'note'],  // 15px between each note
     data: function () {
         return {
-            pivotNote: {
+            pivotNote: {  // todo: have base 'note arranger' and have bass and treble arrangers inherit from it
                 octave: 4,
                 note: 'b',
                 topOffset: 14
