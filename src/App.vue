@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <NoteArranger />
+    <NoteArranger octave="4" note="c" />
     <footer>
         <a href="https://www.freepik.com/free-photos-vectors/music">
             Music vectors created by rawpixel.com - www.freepik.com
