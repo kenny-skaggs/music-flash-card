@@ -30,7 +30,7 @@ export default {
 
 <style>
     .treble-clef {
-        top: -3px;
+        top: -5px;
         left: 20px;
     }
 </style>

@@ -6,6 +6,9 @@
         :showAnswer=!isUserGuessing
     />
     <footer>
+        <p class="instructions">
+            Click on the staff to see the note name, then again to guess at another note
+        </p>
         <div>
             <a href="https://github.com/RaneClowd/music-flash-card" target="_blank">
                 Source code created by Kenny Skaggs
