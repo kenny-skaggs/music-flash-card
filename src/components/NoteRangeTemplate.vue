@@ -58,6 +58,6 @@ export default {
     }
 
     .note {
-        left: 170px;
+        left: 167px;
     }
 </style>

@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="9.5459995mm"
+   width="12.776mm"
    height="29.497999mm"
-   viewBox="0 0 9.5459995 29.497999"
+   viewBox="0 0 12.776 29.497999"
    version="1.1"
    id="svg3992"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -25,17 +25,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="400"
-     inkscape:cy="560"
+     inkscape:zoom="5.6"
+     inkscape:cx="9.8585987"
+     inkscape:cy="54.981151"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1134"
-     inkscape:window-height="722"
-     inkscape:window-x="670"
-     inkscape:window-y="316"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata3989">
     <rdf:RDF>
@@ -54,7 +54,7 @@
      id="layer1"
      transform="translate(0,-267.502)">
     <path
-       d="m 9.5444802,291.65233 v 0 -23.95678 c 0,-0.10584 -0.08467,-0.19403 -0.194028,-0.19403 h -0.85725 c -0.105833,0 -0.194028,0.0882 -0.194028,0.19403 v 22.01051 c -1.266472,-0.62971 -3.199694,-0.51541 -5.020027,0.43215 -2.53294498,1.31657 -3.88408398,3.73451 -3.01624998,5.40032 0.86430498,1.66617 3.61949998,1.94981 6.15244398,0.63324 2.113139,-1.09855 3.139722,-2.96933 3.129139,-4.51944"
+       d="m 12.77448,291.65233 v 0 -23.95678 c 0,-0.10584 -0.08467,-0.19403 -0.194028,-0.19403 h -0.85725 c -0.105833,0 -0.194028,0.0882 -0.194028,0.19403 v 22.01051 c -1.266472,-0.62971 -3.1996938,-0.51541 -5.0200268,0.43215 -2.532945,1.31657 -3.884084,3.73451 -3.01625,5.40032 0.864305,1.66617 3.6195,1.94981 6.152444,0.63324 2.1131388,-1.09855 3.1397218,-2.96933 3.1291388,-4.51944"
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.03527778"
        id="path3789"
        inkscape:connector-curvature="0" />
