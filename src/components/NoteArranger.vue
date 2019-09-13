@@ -43,7 +43,8 @@ export default {
 <style>
     .note-arranger {
         position: relative;
-        width: 200px;
+        /* Fixing this width to the width of the staff graphic lets the auto margin center all the graphics correctly */
+        width: 260px;
         margin: auto;
         margin-top: 20px;
     }
