@@ -6,9 +6,16 @@
         :showAnswer=!isUserGuessing
     />
     <footer>
-        <a href="https://www.freepik.com/free-photos-vectors/music" target="_blank">
-            Music vectors created by rawpixel.com - www.freepik.com
-        </a>
+        <div>
+            <a href="https://github.com/RaneClowd/music-flash-card" target="_blank">
+                Source code created by Kenny Skaggs
+            </a>
+        </div>
+        <div>
+            <a href="https://www.freepik.com/free-photos-vectors/music" target="_blank">
+                Music vectors created by rawpixel.com - www.freepik.com
+            </a>
+        </div>
     </footer>
   </div>
 </template>
