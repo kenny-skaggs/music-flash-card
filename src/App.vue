@@ -6,7 +6,7 @@
         :showAnswer=!isUserGuessing
     />
     <footer>
-        <a href="https://www.freepik.com/free-photos-vectors/music">
+        <a href="https://www.freepik.com/free-photos-vectors/music" target="_blank">
             Music vectors created by rawpixel.com - www.freepik.com
         </a>
     </footer>
@@ -80,6 +80,8 @@ export default {
         text-align: center;
         color: #2c3e50;
         height: 80vh;
+
+        user-select: none;  /* Disabling highlighting indicator for when the user clicks fast (double clicks) */
     }
 
     footer {
