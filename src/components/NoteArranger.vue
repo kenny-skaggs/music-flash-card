@@ -56,8 +56,9 @@ export default {
     .note-name {
         position: absolute;
         top: 260px;
-        left: 150px;
+        left: 0px;
         font-size: 70px;
+        width: 280px;
     }
 </style>
 
