@@ -17,7 +17,7 @@ export default {
 
 <style>
     .bass-clef {
-        top: 61px;
+        top: 58px;
         left: 30px;
     }
 </style>

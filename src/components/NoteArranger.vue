@@ -27,8 +27,8 @@ export default {
     data: function () {
         return {
             noteTopStaffOffsets: {
-                stemUp: 14,
-                stemDown: 94
+                stemUp: 11,
+                stemDown: 92
             }
         };
     },
