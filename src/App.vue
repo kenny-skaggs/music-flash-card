@@ -79,12 +79,12 @@ export default {
         -moz-osx-font-smoothing: grayscale;
         text-align: center;
         color: #2c3e50;
-        height: 100vh;
+        height: 80vh;
     }
 
     footer {
         width: 100%;
         position: fixed;
-        bottom: 0;
+        bottom: 10px;
     }
 </style>

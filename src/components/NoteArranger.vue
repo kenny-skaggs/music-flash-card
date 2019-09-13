@@ -45,6 +45,7 @@ export default {
         position: relative;
         width: 200px;
         margin: auto;
+        margin-top: 20px;
     }
 
     .staff {
